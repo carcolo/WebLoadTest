@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoadTest": {
+      "commandName": "Project",
+      "commandLineArgs": "https://diagnosticscenarios.azurewebsites.net  500"
+    }
+  }
+}
